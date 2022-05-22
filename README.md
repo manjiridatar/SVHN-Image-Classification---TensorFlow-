@@ -1,4 +1,6 @@
-# SVHN-Image-Classification---TensorFlow-
+# SVHN-Image-Classification---TensorFlow- 
+
+[Coursera - Getting started with TensorFlow 2 - Imperial College London](https://www.coursera.org/learn/getting-started-with-tensor-flow2/home/welcome "Getting Started with TensorFlow2 - Imperial College London")
 
 We will use the SVHN dataset(http://ufldl.stanford.edu/housenumbers/). This is an image dataset of over 600,000 digit images in all, and is a harder dataset than MNIST as the numbers appear in the context of natural scene images. SVHN is obtained from house numbers in Google Street View images.
 
