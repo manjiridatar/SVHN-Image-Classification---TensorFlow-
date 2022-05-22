@@ -5,3 +5,11 @@ We will use the SVHN dataset(http://ufldl.stanford.edu/housenumbers/). This is a
 Y. Netzer, T. Wang, A. Coates, A. Bissacco, B. Wu and A. Y. Ng. "Reading Digits in Natural Images with Unsupervised Feature Learning". NIPS Workshop on Deep Learning and Unsupervised Feature Learning, 2011.
 
 Our goal is to develop an end-to-end workflow for building, training, validating, evaluating and saving a neural network that classifies a real-world image into one of ten classes.
+
+Learning Objectives for the course were: 
+========================================
+1. Construct, compile and fit a Sequential model to data
+2. Develop multilayer perceptron and convolutional neural network models
+3. Evaluate the model on held-out data and make model predictions
+4. Include a validation set and monitor overfitting by examining learning curves
+5. Use callbacks to save the weights of Tensorflow models
